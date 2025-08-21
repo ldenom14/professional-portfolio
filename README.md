@@ -17,5 +17,5 @@ This portfolio is organized into distinct project folders, each containing code,
 
 # Contact
 Feel free to contact me for any questions about my work.
-Email: ledenomme@gmail.com
-LinkedIn: https://www.linkedin.com/in/lauren-denomme/
++ **Email:** ledenomme@gmail.com
++ **LinkedIn:** https://www.linkedin.com/in/lauren-denomme/
