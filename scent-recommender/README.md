@@ -1,10 +1,10 @@
 # Scent Recommender System: A Character-Level Encoder-Decoder Model
 This project is a prototype of a scent recommendation system built using a character-level encoder-decoder recurrent neural network (RNN) with TensorFlow and Keras. 
-The model takes a user's free-text description of a desired scent (e.g., "I want a warm, cozy scent with hints of vanilla") and recommends a specific scent name. 
+The model takes a user's free-text description of a desired scent (e.g., "I want a warm, cozy scent with hints of vanilla") and recommends a specific scent name (in this project, I used the perfumer DedCool's library of scents and corresponding fragrance notes as the metadata in the example dataset, dedcool_scent_data.json).
 This capstone project showcases my ability to develop innovative, end-to-end AI/ML solutions from data preparation to deployment.
 
 # Key Features and Technologies
-+ **Custom Encoder-Decoder Architecture:** The core of the system is a sequence-to-sequence model built with LSTM layers. The encoder processes the user's descriptive input and compresses it into a "thought vector,"
++ **Custom Encoder-Decoder Architecture:** The core of the system is a sequence-to-sequence model built with LSTM (long short-term memory) layers. The encoder processes the user's descriptive input and compresses it into a "thought vector,"
 which the decoder then uses to generate the output scent name, character by character.
 
 + **End-to-End Implementation:** The project demonstrates the full machine learning lifecycle, from building and preprocessing a synthetic dataset to training the model and developing an interactive web interface.
