@@ -8,6 +8,10 @@ This portfolio is organized into distinct project folders, each containing code,
 + **Description:** A capstone project that prototypes a scent recommendation system. It uses a character-level encoder-decoder RNN to take a user's free-text scent description and output a specific product recommendation.
 + **Technologies:** Python, TensorFlow, Keras, Gradio, NLP
 
+**2. Computer Vision: Russian License Plate Detector**
++ **Description:** A foundational computer vision project that uses a Haar Cascade classifier to detect license plates in images. It demonstrates proficiency in image preprocessing and classic object detection techniques.
++ **Technologies:** Python, OpenCV, Haar Cascade Classifiers
+
 # Skills
 + **Programming Languages:** Python
 + **Deep Learning Frameworks:** TensorFlow, Keras
