@@ -26,5 +26,5 @@ target object and highlighting it with a bounding box.
 + Ensure you have Python and OpenCV installed. If not, you can install OpenCV via pip:
   pip install opencv-python
 + Place the haarcascade_russian_plate_number.xml file and your input image (e.g., russianplates_1.png) in the same folder as the script.
-+ Run the script from your terminal: python russianplatedetector.py
++ Run the script from your terminal: python object_detection_license_plates.py
 
