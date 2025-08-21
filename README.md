@@ -4,7 +4,7 @@ A curated portfolio of AI & Machine Learning projects showcasing my ability to d
 # Projects
 This portfolio is organized into distinct project folders, each containing code, documentation, and a dedicated README.md file with a detailed explanation of the project's goals, methodology, and outcomes.
 
-# 1. Scent Recommender System
+**1. Scent Recommender System**
 + **Description:** A capstone project that prototypes a scent recommendation system. It uses a character-level encoder-decoder RNN to take a user's free-text scent description and output a specific product recommendation.
 + **Technologies:** Python, TensorFlow, Keras, Gradio, NLP
 
