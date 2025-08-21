@@ -1,0 +1,5110 @@
+[
+    {
+        "input_text": "I'm looking for a scent with pomelo and accord cuir.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "Do you have anything that smells like juniper and sandalwood and patchouli?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good luxurious fragrance with bergamot?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with sandalwood and fig.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber and fresh dew and floral.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and white musk and bergamot.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of cassis.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with bergamot and vanilla.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like marine?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "Do you have anything that smells like juniper berries and raspberry?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good woody fragrance with fresh dew?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of moroccan mint.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white musk and amber.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "What's a good woody fragrance with vanilla?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of wild berries.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with marshmallow and vanilla bean.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and white musk.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of sweet rice milk and marshmallow and vanilla bean.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "Do you have anything that smells like amber and bergamot and white musk?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "Do you have anything that smells like wild berries and amber and gardenia?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with clementine.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of orange blossom and salty vanilla and white floral.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good smoky fragrance with sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of sweet rice milk and marshmallow.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with exotic woods.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like fresh dew and bergamot and cassis?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of exotic woods and amber.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like blonde woods?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "Do you have anything that smells like sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like vanilla and cassis?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good breezy fragrance with vetiver?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "What's a good sun-drenched fragrance with gardenia?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of wild berries and gardenia.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good earthy fragrance with sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with lotus and jasmine.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "Do you have anything that smells like jasmine and clove?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of woods.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with sandalwood and green floral and juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of fig.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "What's a good sensual fragrance with clementine?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good breezy fragrance with cassis?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good woody fragrance with bergamot?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white floral and salty vanilla.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good serene fragrance with orange blossom?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with lemon and pepper and patchouli.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of clove and lotus and oakmoss.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "Do you have anything that smells like fresh dew and amber?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like musk and rose?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I'm looking for a scent with juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good cozy fragrance with juniper?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good breezy fragrance with sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good warm fragrance with sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of moroccan mint.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of cassis and fresh dew.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot and amber.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "What's a good floral fragrance with pear?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of accord cuir.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of geranium.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like amber?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "Do you have anything that smells like woods and gardenia and amber?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of incense and patchouli and lavender.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I'm looking for a scent with rose.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of floral.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like white musk and bergamot and amber?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with vanilla bean.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with fresh dew.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good earthy fragrance with cassis?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of geranium and lavender and incense.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like gardenia?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good woody fragrance with moroccan mint?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "Do you have anything that smells like lavender and geranium and star anise?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like raspberry and accord cuir?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good fresh fragrance with white floral?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of orange blossom.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with exotic woods and moss.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like juniper and patchouli?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with bergamot and white musk and amber.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "What's a good smoky fragrance with marine?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of black violet and raspberry and pomelo.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber and white musk.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "What's a good breezy fragrance with amber?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good warm fragrance with fresh dew?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with bergamot.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of cassis.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good breezy fragrance with accord cuir?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good warm fragrance with vanilla bean?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "Do you have anything that smells like accord cuir and vetiver?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with white floral and orange blossom and salty vanilla.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "Do you have anything that smells like patchouli and green floral and sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk and vanilla bean and marshmallow.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of sheer woods.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I'm looking for a scent with wild berries and clementine.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like green floral?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good breezy fragrance with accord cuir?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of wild berries and clementine.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good breezy fragrance with patchouli?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "What's a good smoky fragrance with moss?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like amber and sandalwood and black pepper?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "What's a good captivating fragrance with juniper?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with sandalwood and juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like woods and clementine?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good woody fragrance with clementine?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like crystal rose and vetiver and accord cuir?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "Do you have anything that smells like amber and white musk?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "What's a good sparkling fragrance with amber?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like sweet rice milk and vanilla bean and marshmallow?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "What's a good earthy fragrance with amber?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot and amber.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with juniper and green floral.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like amber?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "What's a good warm fragrance with patchouli?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like juniper?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot and amber and white musk.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "What's a good cozy fragrance with white musk?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "Do you have anything that smells like white musk and bergamot?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with caramel and musk.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I'm looking for a scent with raspberry.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk and vanilla bean and marshmallow.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with moss?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber and white musk and bergamot.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I'm looking for a scent with pepper and fig.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "What's a good cozy fragrance with moroccan mint?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of juniper and sandalwood and green floral.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of vanilla and rose and cedar.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I'm looking for a scent with bergamot and white musk.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like lotus?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of sheer woods and patchouli and juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and bergamot and white musk.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of pepper and orange and sandalwood.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "Do you have anything that smells like vetiver and accord cuir?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of lavender.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "What's a good serene fragrance with marshmallow?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with woods and amber and clementine.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good warm fragrance with clove?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I'm looking for a scent with patchouli.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like marshmallow and vanilla bean and sweet rice milk?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "What's a good floral fragrance with patchouli?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "Do you have anything that smells like amber and bergamot?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with orange blossom and white floral.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with geranium and bergamot.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like orange?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "What's a good warm fragrance with patchouli?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I'm looking for a scent with marshmallow.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "Do you have anything that smells like patchouli and vetiver?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of patchouli.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "What's a good earthy fragrance with amber?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of vanilla.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white musk and amber and bergamot.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of lemon.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "Do you have anything that smells like rose?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "Do you have anything that smells like marshmallow and sweet rice milk and vanilla bean?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with white floral?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of orange blossom and salty vanilla and white floral.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber and wild berries and gardenia.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with geranium and incense and lavender.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like white musk and amber?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "Do you have anything that smells like fresh dew and amber?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot and white musk?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "Do you have anything that smells like wild berries and amber?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good sensual fragrance with white musk?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot and amber?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I'm looking for a scent with clementine and amber.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with amber.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like woods and wild berries and amber?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with crystal rose.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with exotic woods.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with marshmallow and vanilla bean.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with white musk.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with gardenia and amber.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like moss?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of cardamom.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I'm looking for a scent with sheer woods.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with jasmine and moroccan mint.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and bergamot.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "What's a good clean fragrance with white floral?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with white floral?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with bergamot and white musk.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white musk and bergamot.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with white musk and amber and bergamot.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and white musk.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like vetiver and star anise?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white musk.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of fresh dew and cassis and floral.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like amber and bergamot?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like saffron?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk and marshmallow and vanilla bean.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with jasmine?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I'm looking for a scent with vetiver and star anise.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I'm looking for a scent with accord cuir and pomelo and black violet.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good breezy fragrance with vanilla bean?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "What's a good floral fragrance with clove?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "What's a good sweet fragrance with juniper berries?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "Do you have anything that smells like orange and fig and sandalwood?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of floral and fresh dew.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white floral and salty vanilla.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good sweet fragrance with floral?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good sparkling fragrance with vetiver?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like accord cuir and raspberry?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good warm fragrance with lotus?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I'm looking for a scent with wild berries and woods.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of moss and sandalwood.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of exotic woods and black pepper and sandalwood.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of clove and oakmoss.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I'm looking for a scent with clove and lotus and jasmine.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I'm looking for a scent with salty vanilla and white floral and orange blossom.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot and vanilla?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like sheer woods and green floral?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with crystal rose and vetiver.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of gardenia.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like patchouli and pepper?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of vanilla bean and marshmallow and sweet rice milk.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with bergamot and amber.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with amber and white musk and bergamot.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of moss and black pepper and amber.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "What's a good floral fragrance with fig?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "What's a good clean fragrance with pepper?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "Do you have anything that smells like salty vanilla and white floral?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good sun-drenched fragrance with gardenia?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and floral.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with blonde woods.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with wild berries and amber and clementine.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good cozy fragrance with sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of oakmoss and jasmine.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "What's a good fresh fragrance with orange?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "What's a good woody fragrance with green floral?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with blonde woods and pomelo and black violet.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white floral.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with black violet.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of vetiver.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of sheer woods and juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good bold fragrance with sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good spicy fragrance with woods?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like rose and caramel and jasmine?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "Do you have anything that smells like clementine and amber?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good floral fragrance with cassis?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good smoky fragrance with sweet rice milk?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with salty vanilla.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good bright fragrance with exotic woods?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like sweet rice milk and marshmallow and vanilla bean?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "Do you have anything that smells like vetiver and pomelo?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of sandalwood.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of pear and musk.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I'm looking for a scent with moss.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of patchouli and sandalwood and sheer woods.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with white floral and orange blossom.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "Do you have anything that smells like amber and exotic woods?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "What's a good spicy fragrance with white musk?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with sandalwood and patchouli.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with moss and amber.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of star anise.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I'm looking for a scent with woods and clementine and wild berries.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with amber and white musk.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like sandalwood and amber?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like sheer woods and juniper and green floral?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like wild berries?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot and amber and white musk?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of cassis.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with jasmine and oakmoss and lotus.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of orange blossom and salty vanilla.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good floral fragrance with white musk?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of woods and wild berries.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of wild berries and gardenia and amber.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "What's a good grounding fragrance with sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like juniper?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like cassis?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with saffron.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with caramel and cassis and vanilla.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "What's a good floral fragrance with amber?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like gardenia?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I'm looking for a scent with green floral and juniper and sandalwood.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with star anise.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "What's a good warm fragrance with lavender?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I'm looking for a scent with vanilla.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with lemon.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "Do you have anything that smells like jasmine and lotus and moroccan mint?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "Do you have anything that smells like clementine and gardenia?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of wild berries and gardenia and woods.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good cozy fragrance with sandalwood?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like pomelo and crystal rose and raspberry?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "Do you have anything that smells like cardamom?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot and white musk and amber?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of accord cuir and blonde woods.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good smoky fragrance with salty vanilla?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of vetiver and crystal rose and black violet.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with incense?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like pepper and sandalwood?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I'm looking for a scent with fig and patchouli and sandalwood.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "What's a good grounding fragrance with wild berries?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of cardamom and sandalwood and moss.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with black pepper?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk and marshmallow.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of bergamot.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with juniper and green floral and patchouli.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good alluring fragrance with raspberry?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with vanilla bean and marshmallow and sweet rice milk.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of pomelo and vetiver and blonde woods.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like cardamom and exotic woods and black pepper?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "Do you have anything that smells like bergamot and amber?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "Do you have anything that smells like patchouli and juniper?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of patchouli and juniper.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of vetiver and pomelo and black violet.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good breezy fragrance with juniper?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with accord cuir and raspberry.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with cedar.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of sandalwood.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "Do you have anything that smells like patchouli and sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "I'm looking for a scent with blonde woods and black violet and pomelo.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good sun-drenched fragrance with woods?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good clean fragrance with amber?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "What's a good smoky fragrance with sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like vanilla and lemon and patchouli?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I'm looking for a scent with juniper berries.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white musk.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "What's a good captivating fragrance with crystal rose?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I'm looking for a scent with sweet rice milk and vanilla bean and marshmallow.",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "What's a good clean fragrance with patchouli?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like clementine and amber?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "Do you have anything that smells like white musk?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "What's a good warm fragrance with sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like patchouli and green floral and sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "Do you have anything that smells like sweet rice milk and marshmallow and vanilla bean?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "I'm looking for a scent with orange blossom and white floral and salty vanilla.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white musk and amber and bergamot.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I'm looking for a scent with pepper and fig and patchouli.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of jasmine and clove and moroccan mint.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I'm looking for a scent with orange blossom and white floral and salty vanilla.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with pepper?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of black pepper and cardamom and exotic woods.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with cardamom and moss.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with lemon.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of wild berries and gardenia.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good sparkling fragrance with vetiver?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "Do you have anything that smells like rose and cassis?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "What's a good spicy fragrance with moss?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of pepper and lemon and sandalwood.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of jasmine and caramel and pear.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "What's a good playful fragrance with pomelo?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of vetiver and star anise.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of green floral.",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good bright fragrance with white musk?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I'm looking for a scent with bergamot and white musk and amber.",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "What's a good luxurious fragrance with floral?",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "I'm looking for a scent with cardamom and lavender and moss.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of lilly and lotus.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "Do you have anything that smells like lemon?",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I'm looking for a scent with floral and fresh dew and bergamot.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good captivating fragrance with moroccan mint?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of pear and musk.",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of salty vanilla and white floral.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "Do you have anything that smells like vetiver?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good grounding fragrance with patchouli?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "Do you have anything that smells like white floral and orange blossom and salty vanilla?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "Do you have anything that smells like musk?",
+        "target_scent": "Aura",
+        "scent_notes": [
+            "lemon",
+            "pear",
+            "cassis",
+            "marine",
+            "lotus",
+            "rose",
+            "jasmine",
+            "patchouli",
+            "cedar",
+            "musk",
+            "caramel",
+            "vanilla"
+        ],
+        "scent_description": "Sparkling sweet, bright. High vibration. Waking up to fresh fruits on the shore. Marine spray forms dew drops on a rose and jasmine garden. Traces of musk, gentle patchouli, and a drop of caramel to follow your every move."
+    },
+    {
+        "input_text": "What's a good sun-drenched fragrance with white musk?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of white floral.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "Do you have anything that smells like clementine and gardenia and wild berries?",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good citrusy fragrance with sandalwood?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good bold fragrance with white musk?",
+        "target_scent": "Xtra Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk, amplified. Keep your friends close and your scent closer. Smells like you. Feels like pure comfort."
+    },
+    {
+        "input_text": "Do you have anything that smells like sandalwood and amber?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with exotic woods.",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with white floral and salty vanilla and orange blossom.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "What's a good grounding fragrance with vetiver?",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and cassis.",
+        "target_scent": "01- Taunt",
+        "scent_notes": [
+            "bergamot",
+            "fresh dew",
+            "floral",
+            "cassis",
+            "vanilla",
+            "amber"
+        ],
+        "scent_description": "Creamy and alluring. Watching vanilla clouds in a citrus sky. Smells like daydreaming about your first perfume. Feels like a coming-of-age story."
+    },
+    {
+        "input_text": "What's a good fresh fragrance with lavender?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and clementine.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "What's a good fresh fragrance with clove?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of wild berries and clementine and gardenia.",
+        "target_scent": "Red Dakota",
+        "scent_notes": [
+            "clementine",
+            "gardenia",
+            "woods",
+            "amber",
+            "wild berries"
+        ],
+        "scent_description": "Fresh and zesty. Unmistakably optimistic. Smells like Mediterranean citrus groves. Feels like your own personal villa"
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of amber and bergamot and white musk.",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "What's a good luxurious fragrance with moss?",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "What's a good bright fragrance with amber?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "What's a good fresh fragrance with sweet rice milk?",
+        "target_scent": "Mochi Milk",
+        "scent_notes": [
+            "marshmallow",
+            "sweet rice milk",
+            "vanilla bean"
+        ],
+        "scent_description": "The sweetest new addition to the MILK family. Peach nectar and pillowy marshmallow whipped with sweetened rice milk. Sandalwood, amber, and white musk add depth. Feels like sleeping on a cloud. Smells like sweet nothings."
+    },
+    {
+        "input_text": "Do you have anything that smells like sandalwood and patchouli and sheer woods?",
+        "target_scent": "Fragrance 02",
+        "scent_notes": [
+            "juniper",
+            "green floral",
+            "sheer woods",
+            "patchouli",
+            "sandalwood"
+        ],
+        "scent_description": "Troublesome and sweet. Ask for forgiveness, not permission. Smells like heat, friction, a dance club with a name you already forgot. Feels like bad behavior."
+    },
+    {
+        "input_text": "What's a good alluring fragrance with white floral?",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "I'm looking for a scent with patchouli.",
+        "target_scent": "05 - Spring",
+        "scent_notes": [
+            "bergamot",
+            "cardamom",
+            "star anise",
+            "geranium",
+            "incense",
+            "lavender",
+            "moss",
+            "patchouli",
+            "vetiver"
+        ],
+        "scent_description": "Bright and grounded. We like who you're becoming. Smells like open windows. Feels like stepping out of a long winter"
+    },
+    {
+        "input_text": "I'm looking for a scent with orange blossom and white floral.",
+        "target_scent": "Sunlit Blooms",
+        "scent_notes": [
+            "orange blossom",
+            "white floral",
+            "salty vanilla"
+        ],
+        "scent_description": "Just sweet enough. Radiate warmth, all year long. Smells like white orange blossoms at high noon. Feels like a high of 80 degrees with nowhere to be."
+    },
+    {
+        "input_text": "Do you have anything that smells like moss?",
+        "target_scent": "Madonna Lilly",
+        "scent_notes": [
+            "sandalwood",
+            "black pepper",
+            "amber",
+            "exotic woods",
+            "moss",
+            "cardamom"
+        ],
+        "scent_description": "Floral with a dash of pepper. We bottled a power suit. Smells like hitting the pavement running. Feels like fingerprints on the glass ceiling."
+    },
+    {
+        "input_text": "I'm looking for a scent with patchouli and fig and lemon.",
+        "target_scent": "Fragrance 04",
+        "scent_notes": [
+            "fig",
+            "pepper",
+            "orange",
+            "lemon",
+            "sandalwood",
+            "patchouli"
+        ],
+        "scent_description": "Electric and earthy. Finally, the last rain of spring. Smells like nature - radiant and vibrating. Feels like lightning striking twice."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of pomelo.",
+        "target_scent": "03 - Blonde",
+        "scent_notes": [
+            "juniper berries",
+            "pomelo",
+            "saffron",
+            "accord cuir",
+            "black violet",
+            "crystal rose",
+            "blonde woods",
+            "raspberry",
+            "vetiver"
+        ],
+        "scent_description": "Dewy and spicy. What if you could bring time to a stop? Smells like narcotic leather and blooming black petals. Feels like silencing the noise."
+    },
+    {
+        "input_text": "What's a good serene fragrance with bergamot?",
+        "target_scent": "Milk",
+        "scent_notes": [
+            "bergamot",
+            "white musk",
+            "amber"
+        ],
+        "scent_description": "A universal musk. You might as well. Smells familiar, like warm, clean skin. Feels like you've owned it for your whole life."
+    },
+    {
+        "input_text": "I enjoy perfumes with notes of moroccan mint and lilly and lotus.",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    },
+    {
+        "input_text": "Do you have anything that smells like oakmoss?",
+        "target_scent": "Rocco Mint",
+        "scent_notes": [
+            "moroccan mint",
+            "jasmine",
+            "lotus",
+            "lilly",
+            "oakmoss",
+            "clove"
+        ],
+        "scent_description": "Floral and deep. Jasmine as a status symbol. Smells like history's most expensive blooms. Feels like Marie Antoinette on her balcony."
+    }
+]
